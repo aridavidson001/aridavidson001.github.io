@@ -1,6 +1,7 @@
-h1 {
+  h1 {
   font-size: 60px;
   text-align: center;
+  font-family: sans-serif;
 }
 
 p,
@@ -9,4 +10,5 @@ li {
   text-align: center;
   line-height: 2;
   letter-spacing: 1px;
+  font-family: sans-serif;
 }
