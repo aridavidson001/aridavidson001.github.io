@@ -6,6 +6,7 @@ h1 {
 p,
 li {
   font-size: 16px;
+  text-align: center;
   line-height: 2;
   letter-spacing: 1px;
 }
